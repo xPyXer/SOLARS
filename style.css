@@ -419,7 +419,7 @@ a {
     }
     .navLinks {
         text-align: center;
-        padding: 3rem;
+        padding: 2.25rem;
         width: 100%;
         display: table;
     }
@@ -594,6 +594,7 @@ a {
     }
     .footer {
         background: #121212;
+        height: 85vh;
         padding: 0;
         width: 100%;
         max-width: auto;
